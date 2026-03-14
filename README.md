@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Marta Pérez Roldán
 
-<!--
-**marta-perez-roldan/marta-perez-roldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software y Física Computacional.
 
-Here are some ideas to get you started:
+## En qué estoy trabajando
+- Backend y APIs
+- Simulación y computación científica
+- Proyectos técnicos con foco en calidad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ahora mismo
+Estoy construyendo mi portfolio en GitHub con proyectos pequeños pero bien terminados.
+
+## Proyectos destacados
+<!--- [Nombre proyecto 1](enlace)
+- [Nombre proyecto 2](enlace) -->
+
+## Objetivo profesional
+Busco prácticas o una primera oportunidad junior donde pueda aportar en backend, simulación o tooling técnico.
