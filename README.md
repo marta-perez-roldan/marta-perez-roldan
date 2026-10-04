@@ -23,6 +23,7 @@ Simulación en Python del problema de los tres cuerpos con integración numéric
 
 ### Simulación de fuego y humo con una Vela
 ![Fuente](.media/Vela_en_tarro.gif)
+
 Una vela encendida con una tapa móvil que desplaza el flujo de humo.
 
 ### Simulación de partículas
