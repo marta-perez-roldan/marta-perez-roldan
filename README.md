@@ -8,6 +8,7 @@ Estoy construyendo mi portfolio en GitHub con proyectos pequeños pero bien term
 ## Proyectos 
 <!--- [Nombre proyecto 1](enlace)
 - [Nombre proyecto 2](enlace) -->
+![Motor 3D](.media/)
 ### Motor Gráfico 3D con Iluminación y Colisiones 
 Es un motor gráfico programado desde cero en C++ con OpenGL. 
 
