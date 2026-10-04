@@ -25,7 +25,7 @@ Simulación en Python del problema de los tres cuerpos con integración numéric
 Una vela encendida con una tapa móvil que desplaza el flujo de humo.
 
 ### Simulación de partículas
-![Fuente](.media/Pato_Fuente.mp4)
+![Fuente](.media/Pato_Fuente.gif)
 
 
 Un sistema de partículas que simula una fuente.
