@@ -22,10 +22,12 @@ Es un motor gráfico programado desde cero en C++ con OpenGL.
 Simulación en Python del problema de los tres cuerpos con integración numérica por el método de Euler.
 
 ### Simulación de fuego y humo con una Vela
-![Fuente](.media/Vela_en_tarro.gif)
-
 Una vela encendida con una tapa móvil que desplaza el flujo de humo.
 
+![Fuente](.media/Vela_en_tarro.gif)
+
+
 ### Simulación de partículas
-![Fuente](.media/Pato_Fuente.gif)
 Un sistema de partículas que simula una fuente.
+
+![Fuente](.media/Pato_Fuente.gif)
