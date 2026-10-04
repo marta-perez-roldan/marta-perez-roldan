@@ -2,8 +2,6 @@
 
 Estudiante de Ingeniería de Software y Física Computacional con Título Propio en Inteligencia Artificial. 
 
-## Ahora mismo
-Estoy construyendo mi portfolio en GitHub con proyectos pequeños pero bien terminados.
 
 ## Proyectos 
 <!--- [Nombre proyecto 1](enlace)
