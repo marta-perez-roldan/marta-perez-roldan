@@ -6,7 +6,7 @@ Estudiante de Ingeniería de Software y Física Computacional con Título Propio
 ## Proyectos 
 <!--- [Nombre proyecto 1](enlace)
 - [Nombre proyecto 2](enlace) -->
-![Motor 3D](.media/)
+![Motor 3D](.media/Rotacion_2_cuerpos.gif)(.media/Juego.gif)
 ### Motor Gráfico 3D con Iluminación y Colisiones 
 Es un motor gráfico programado desde cero en C++ con OpenGL. 
 
