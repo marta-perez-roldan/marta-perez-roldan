@@ -6,9 +6,6 @@ Estudiante de Ingeniería de Software y Física Computacional con Título Propio
 ## Proyectos 
 <!--- [Nombre proyecto 1](enlace)
 - [Nombre proyecto 2](enlace) -->
-<img width="598" height="450" alt="Grabación 2026-10-06 204621" src="https://github.com/user-attachments/assets/75238c2a-2990-49d9-aa24-2a80daa2d7ec" />
-
-
 ### Motor Gráfico 3D con Iluminación y Colisiones 
 Es un motor gráfico programado desde cero en C++ con OpenGL. 
 
@@ -17,6 +14,10 @@ Es un motor gráfico programado desde cero en C++ con OpenGL.
 - Movimiento de cámara.
 - Detección de colisiones.
 - Iluminación con el modelo de Phong y sombras.
+
+<img width="598" height="450" alt="Grabación 2026-10-06 204621" src="https://github.com/user-attachments/assets/75238c2a-2990-49d9-aa24-2a80daa2d7ec" />
+
+
 
 ### Problema de los tres cuerpos
 Simulación en Python del problema de los tres cuerpos con integración numérica por el método de Euler.
