@@ -20,6 +20,8 @@ Es un motor gráfico programado desde cero en C++ con OpenGL.
 
 ### Problema de los tres cuerpos
 Simulación en Python del problema de los tres cuerpos con integración numérica por el método de Euler.
+<img width="656" height="410" alt="Grabación de pantalla 2026-10-09 015837" src="https://github.com/user-attachments/assets/d315bb5b-210b-4352-beb8-04f08c6a1a3b" />
+
 
 ### Simulación de fuego y humo con una Vela
 Una vela encendida con una tapa móvil que desplaza el flujo de humo.
